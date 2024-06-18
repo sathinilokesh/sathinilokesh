@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathinilokesh&label=Profile%20views&color=0e75b6&style=flat" alt="sathinilokesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathinilokesh" alt="sathinilokesh" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=sathinilokesh" alt="sathinilokesh" /></a> </p>
 
 - 🔭 I’m currently working on [Identity management using Blockchain](https://github.com/sathinilokesh/temp-identity)
 
 - 📫 How to reach me **sathinilokesh@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
