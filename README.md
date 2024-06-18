@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Lokesh Sathini</h1>
 <h3 align="center">A passionate Cyber Security Student from India</h3>
 
@@ -5,7 +9,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sathinilokesh&label=Profile%20views&color=0e75b6&style=flat" alt="sathinilokesh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sathinilokesh&label=Profile%20views&color=0e75b6&style=flat" alt="sathinilokesh" /> </p>\
 
 ##
 - 🔭 I’m currently working on [Identity management using Blockchain](https://github.com/sathinilokesh/temp-identity)
